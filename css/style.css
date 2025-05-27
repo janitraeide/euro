@@ -227,21 +227,28 @@ img {
     height: 80px;
 }
 
-.logo a {
-    display: flex;
-    align-items: center;
-    text-decoration: none;
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center the logo horizontally */
+  padding: 10px;
+  /* Optional: adjust height of the logo container if needed */
 }
 
-.logo h1 {
-    font-size: 1.75rem;
-    margin-bottom: 0;
-    color: var(--primary-color);
+.logo img {
+  width: 150px; /* Adjust as per your design */
+  height: auto;
+  object-fit: contain; /* Keeps logo proportionate */
+  display: block;
 }
 
-.logo span {
-    color: var(--secondary-color);
+/* Optional: responsive adjustments */
+@media (max-width: 768px) {
+  .logo img {
+    width: 120px; /* Slightly smaller for mobile */
+  }
 }
+
 
 .nav-menu {
     display: flex;
