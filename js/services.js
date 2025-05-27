@@ -1,5 +1,5 @@
 /*
-* EuroLogistics - Services JavaScript
+* euroaxislogistics - Services JavaScript
 * Functionality for the services page
 */
 
@@ -131,7 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
             icon: 'fas fa-truck-moving',
             content: `
                 <p>Our comprehensive road freight services connect businesses across Europe with reliability and efficiency. With a modern fleet of vehicles and experienced drivers, we offer tailored solutions for shipments of all sizes, from small parcels to full truckloads.</p>
-                <p>EuroLogistics' strategic location in the Netherlands allows us to provide optimal coverage throughout Europe, with direct routes to major cities and efficient connections to remote locations. Our advanced tracking systems ensure you always know where your cargo is, while our commitment to sustainability means we're constantly working to reduce our environmental impact.</p>
+                <p>euroaxislogistics' strategic location in the Netherlands allows us to provide optimal coverage throughout Europe, with direct routes to major cities and efficient connections to remote locations. Our advanced tracking systems ensure you always know where your cargo is, while our commitment to sustainability means we're constantly working to reduce our environmental impact.</p>
                 <div class="service-benefits">
                     <h3>Key Benefits</h3>
                     <ul>
@@ -156,7 +156,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: 'Sea Freight Services',
             icon: 'fas fa-ship',
             content: `
-                <p>EuroLogistics offers comprehensive sea freight solutions connecting the Netherlands with ports worldwide. Our strategic partnerships with major shipping lines enable us to provide competitive rates and reliable service for all your maritime shipping needs.</p>
+                <p>euroaxislogistics offers comprehensive sea freight solutions connecting the Netherlands with ports worldwide. Our strategic partnerships with major shipping lines enable us to provide competitive rates and reliable service for all your maritime shipping needs.</p>
                 <p>We handle both FCL (Full Container Load) and LCL (Less than Container Load) shipments, as well as specialized cargo such as oversized equipment, hazardous materials, and temperature-sensitive goods. Our experienced team manages all aspects of your sea freight shipments, from documentation and customs clearance to inland transportation and final delivery.</p>
                 <div class="service-benefits">
                     <h3>Key Benefits</h3>

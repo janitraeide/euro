@@ -1,5 +1,5 @@
 /*
-* EuroLogistics - Animations JavaScript
+* euroaxislogistics - Animations JavaScript
 * GSAP animations for the logistics company website
 */
 

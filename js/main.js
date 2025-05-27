@@ -1,5 +1,5 @@
 /*
-* EuroLogistics - Main JavaScript
+* euroaxislogistics - Main JavaScript
 * Main functionality for the logistics company website
 */
 

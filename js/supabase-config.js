@@ -1,5 +1,5 @@
 /*
-* Supabase Configuration for EuroLogistics
+* Supabase Configuration for euroaxislogistics
 * Handles database connections and form submissions
 */
 

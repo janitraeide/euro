@@ -1,10 +1,10 @@
-# EuroLogistics Website
+# euroaxislogistics Website
 
 A clean, modern, and responsive website for a logistics company based in the Netherlands, Europe.
 
 ## Overview
 
-This project is a multi-page website for a fictional logistics company called EuroLogistics. The website includes:
+This project is a multi-page website for a fictional logistics company called euroaxislogistics. The website includes:
 
 - Home page with 15+ sections
 - About page
@@ -56,7 +56,7 @@ The website is built using HTML, CSS, JavaScript, and GSAP for animations.
 
 ### Jobs/Careers Page
 - Careers introduction
-- Benefits of working at EuroLogistics
+- Benefits of working at euroaxislogistics
 - Current job openings with filtering
 - Application process
 
